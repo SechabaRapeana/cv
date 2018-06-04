@@ -1,0 +1,66 @@
+   .ThResume{
+     background-color:navy;
+    height: 150px;
+    width: 75%;
+    text-align: center;
+    margin-left: 10%;
+  
+    
+  
+     
+  
+    
+} 
+
+
+/* img{
+    margin-top: 150px;
+    border-radius: 250px;
+    margin-left: 8%; 
+} 
+ */
+
+.divStyl{
+   
+    height: px;
+    width: 25%;
+    text-align: left;
+
+    
+} 
+.Styl,th,td{
+ 
+    height: 50px;
+    text-align: center;
+     /* background-color:gray;  */
+ 
+}
+
+
+
+
+/* .divEdu{
+margin-left: 45%;
+margin-top: -33%;
+
+}
+
+.divExp{
+    margin-left: 45%;
+    margin-top: -33%;
+    
+    
+    } */
+
+    body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       background-image: url(white-paper.jpg);
+        background-attachment: fixed;
+        
+    }
+    
+    /* .divRef{
+        margin-left: 45%;
+        margin-top: 18%;
+
+    }  */
