@@ -1,3 +1,7 @@
+.container{
+    text-align: center;
+}
+
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -22,12 +26,4 @@
     color: white;
   }
 
-   .im{
-     background-image: url('../assets/thVO7BI1BZ.JPG');
-     height: 100%;
-     width: 100%;
-
-   }
-   jpg{
-     height : 700px;
-   }
+  
